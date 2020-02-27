@@ -16,4 +16,5 @@ public class User {
         return "User [uid=" + uid + ", username=" + username + ", password="
                 + password + ", phone=" + phone + "]";
     }
+    
 }
